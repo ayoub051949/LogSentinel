@@ -19,7 +19,8 @@ Usage
 
 ### ForWindows Users:
 
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/d970c840-090e-4c4e-af77-57be9290f797" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/17067564-7ddf-4a50-8707-c76cbf69498c" />
+
 
 
 
@@ -43,7 +44,8 @@ This will display all available options and usage information.
 ### For Linux Users:
 
 
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/4cb3738a-844d-4b94-beef-4e6e32889558" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/53a9e020-1163-473b-9913-352f43813393" />
+
 
 
 Clone the repository:
